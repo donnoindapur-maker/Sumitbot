@@ -1,8 +1,7 @@
-AAEuAPMIW6V0eTaRRxxwvmWT7EMbGl3r3zUMIW6V0eTaRRxxwvmWT7EMbGl3r3zU telebot
+import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import json
 import os
-
 TOKEN = "8876293826:AAEIUUkyOdKl1cSukDcWVD6xVBmexC7fMeQ"
 
 # ---------- ADMINS ----------
