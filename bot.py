@@ -10,8 +10,8 @@ ADMIN_IDS = [8941423298]  # Dusrya admin chi ID ithe taka
 
 ADMIN_USERNAME = "Taskman96"
 
-FREE_CHANNEL_LINK = "https://t.me/+juPd-5z2o8xkMzU1"
-PREMIUM_CHANNEL_LINK = "https://t.me/+v2lHS_eO-OxlY2Y1"
+FREE_CHANNEL_LINK = "https://t.me/+9v4aVug8fJ1lMGFl"
+PREMIUM_CHANNEL_LINK = "https://t.me/+UTcWy-FbpwQxYzQ1"
 
 QR_FILE = "qr.png"
 USERS_FILE = "users.json"
