@@ -1,9 +1,9 @@
-import telebot
+AAEuAPMIW6V0eTaRRxxwvmWT7EMbGl3r3zUMIW6V0eTaRRxxwvmWT7EMbGl3r3zU telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import json
 import os
 
-TOKEN = "8629584902:AAEuAPMIW6V0eTaRRxxwvmWT7EMbGl3r3zU"
+TOKEN = "8876293826:AAEIUUkyOdKl1cSukDcWVD6xVBmexC7fMeQ"
 
 # ---------- ADMINS ----------
 ADMIN_IDS = [7156406347,8850576076]  # Dusrya admin chi ID ithe taka
